@@ -40,11 +40,24 @@ The objective of this project is to analyze the impact of different advertising 
 ->Summarize the key findings, particularly the effectiveness of each advertising medium on sales.
 ->Discuss the model’s accuracy and potential areas for improvement.
 
-### Technologies and Tools
-**1.Programming Language:** Python
-**2.Libraries:**
+## Technologies and Tools
+1.**Programming Language:** Python
+2.**Libraries:**
   ->Pandas: For data manipulation and cleaning.
   ->NumPy: For numerical operations.
   ->Matplotlib & Seaborn: For data visualization.
   ->Scikit-Learn: For implementing and evaluating the Linear Regression model.
 **3.Environment:** Jupyter Notebook for interactive analysis and visualization.
+
+
+## OUTPUT
+
+![Screenshot 2024-08-22 224014](https://github.com/user-attachments/assets/7b909e51-69ad-4042-8ff1-a1db59353719)
+![Screenshot 2024-08-22 224032](https://github.com/user-attachments/assets/d2a1f6ad-bc56-4d03-914c-2338d7abe99e)
+![Screenshot 2024-08-22 224050](https://github.com/user-attachments/assets/aea0a47c-2798-4934-9603-cdde1a1e5d68)
+![Screenshot 2024-08-22 224108](https://github.com/user-attachments/assets/50e1f3b7-afc7-414f-89ef-0cf72634014c)
+![Screenshot 2024-08-22 224124](https://github.com/user-attachments/assets/cc74a5fa-a43f-4c89-afb8-e1569a58bd0d)
+![Screenshot 2024-08-22 224139](https://github.com/user-attachments/assets/424ca7ef-04b9-4cc1-8d4e-dbb220543bbe)
+![Screenshot 2024-08-22 224155](https://github.com/user-attachments/assets/59d4a9b6-45c8-4609-9478-4e7d3bcaba84)
+![Screenshot 2024-08-22 224207](https://github.com/user-attachments/assets/56933f2c-a53a-496d-ae5c-568ba90a0bd7)
+
