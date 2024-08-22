@@ -41,10 +41,10 @@ The objective of this project is to analyze the impact of different advertising 
 ->Discuss the model’s accuracy and potential areas for improvement.
 
 ### Technologies and Tools
-1.**Programming Language:** Python
-2.**Libraries:**
+**1.Programming Language:** Python
+**2.Libraries:**
   ->Pandas: For data manipulation and cleaning.
   ->NumPy: For numerical operations.
   ->Matplotlib & Seaborn: For data visualization.
   ->Scikit-Learn: For implementing and evaluating the Linear Regression model.
-3.**Environment:** Jupyter Notebook for interactive analysis and visualization.
+**3.Environment:** Jupyter Notebook for interactive analysis and visualization.
