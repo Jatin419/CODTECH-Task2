@@ -16,8 +16,8 @@ The objective of this project is to analyze the impact of different advertising 
 ->View the first few records, data types, and check for any missing values.
 
 2.**Data Cleaning:**
-->Handle any issues in the dataset such as removing unnecessary columns (e.g., Unnamed: 0).
-->Ensure all relevant columns (TV, Radio, Newspaper, Sales) are properly formatted and ready for analysis.
+->Address any problems with the data set such as removing unnecessary columns (e.g., unnamed: 0).
+->Make sure all relevant information (TV, radio, newspaper, sales) is properly documented and ready for analysis.
 
 3.**Exploratory Data Analysis (EDA):**
 ->Analyze the distribution of advertising budgets across different mediums and their relationship with sales.
@@ -42,11 +42,16 @@ The objective of this project is to analyze the impact of different advertising 
 
 ## Technologies and Tools
 1.**Programming Language:** Python
+
 2.**Libraries:**
   ->Pandas: For data manipulation and cleaning.
+  
   ->NumPy: For numerical operations.
+  
   ->Matplotlib & Seaborn: For data visualization.
+  
   ->Scikit-Learn: For implementing and evaluating the Linear Regression model.
+
 **3.Environment:** Jupyter Notebook for interactive analysis and visualization.
 
 
